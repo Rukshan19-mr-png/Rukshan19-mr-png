@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rukshan!
 
 🎓 Undergraduate at University of Kelaniya
-🎮 Interested in Game Development & Cyber Security
+🎮 Interested in Web Development & Cyber Security
 
 ---
 
