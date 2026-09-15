@@ -110,45 +110,64 @@ A software solution designed to manage school-related activities efficiently.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rukshan19-mr-png&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<a href="https://github.com/Rukshan19-mr-png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rukshan19-mr-png&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&rank_icon=github" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshan19-mr-png&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<a href="https://github.com/Rukshan19-mr-png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshan19-mr-png&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rukshan19-mr-png&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/Rukshan19-mr-png">
+  <img src="https://streak-stats.demolab.com/?user=Rukshan19-mr-png&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rukshan19-mr-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<a href="https://github.com/Rukshan19-mr-png">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rukshan19-mr-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukshan19-mr-png&theme=tokyo-night&hide_border=true" />
+<a href="https://github.com/Rukshan19-mr-png">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukshan19-mr-png&bg_color=0f172a&color=38bdf8&line=2563eb&point=06b6d4&area=true&hide_border=true&custom_title=Maleesha%20Rukshan%27s%20Contribution%20Graph" alt="Contribution Activity Graph" />
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### 💻 Consistency • Contribution • Continuous Learning
+
+</div>
+
 
 ---
 
