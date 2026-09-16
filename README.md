@@ -1,75 +1,83 @@
-# 👋 Hi there, I'm Rukshan!
+<div align="center">
 
-🎓 Undergraduate at University of Kelaniya
-🎮 Interested in Game Development & Cyber Security
+# Hi, I'm Rukshan 👋
 
----
+### Software Engineering Undergraduate | MERN Stack Developer | Cyber Security Enthusiast
 
-## 🚀 About Me
+<a href="https://github.com/Rukshan19-mr-png"><img src="https://img.shields.io/badge/GitHub-Rukshan19--mr--png-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+<a href="https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
 
-* 🌱 Currently learning **MERN Stack Development**
-* 🧠 Studying **Software Engineering**
-* 🔐 Interested in **Cyber Security (CIA Triad, Cryptography)**
-* 🎯 Goal: Become a **Professional Software Engineer**
-* ⚡ Fun fact: I love building creative tech projects!
+</div>
 
----
+## About Me
 
-## 🛠️ Tech Stack
+- 🎓 Software Engineering undergraduate at the University of Kelaniya
+- 🌱 Currently learning full-stack development with the MERN stack
+- 🔐 Exploring cyber security, cryptography, and the CIA triad
+- 🎮 Interested in game development and creative technology
+- 🎯 Working toward becoming a professional software engineer
 
-### 💻 Languages
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<div align="center">
 
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,react,nodejs,express,mongodb,mysql,git,github" alt="Technology stack">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### 🔧 Backend
+## GitHub Analytics
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
 
-### 🗄️ Database
+<img src="https://github-readme-stats.vercel.app/api?username=Rukshan19-mr-png&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshan19-mr-png&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Most used languages">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
----
+<img src="https://streak-stats.demolab.com?user=Rukshan19-mr-png&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 
-## 📊 GitHub Stats
+</div>
 
-> Note: The GitHub Readme Stats service is currently unavailable; using fallback badges.
+## GitHub Achievements
 
-![GitHub Followers](https://img.shields.io/github/followers/Rukshan19-mr-png?label=Followers&style=for-the-badge)
-![Repo Stars](https://img.shields.io/github/stars/Rukshan19-mr-png?label=Stars&style=for-the-badge)
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Rukshan19-mr-png&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub achievements">
 
-## 🔥 Projects
+</div>
 
-* 🛒 E-commerce Website (MERN Stack)
-* 📱Bookfair Reservation System
-* 🏫 School Management System (coming Soon)
+## Contribution Activity
 
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukshan19-mr-png&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph">
 
-## 🌐 Connect With Me
+</div>
 
-* 💼 LinkedIn: https://linkedin.com/in/https://https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/
-* 💻 GitHub: https://github.com/Rukshan19-mr-png
+## Contribution Snake
 
----
+<div align="center">
 
-## 💡 Quote I Believe In
+<img src="https://raw.githubusercontent.com/Rukshan19-mr-png/Rukshan19-mr-png/output/github-contribution-grid-snake.svg" alt="Animated contribution snake">
 
-> "Code. Learn. Build. Repeat."
+</div>
 
----
+## Featured Projects
 
-⭐ *Thanks for visiting my profile!*
+| Project | Description |
+| --- | --- |
+| 🛒 E-commerce Website | MERN stack shopping experience |
+| 📚 Bookfair Reservation System | A platform for managing bookfair reservations |
+| 🏫 School Management System | An upcoming project for school administration |
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/">LinkedIn</a> · <a href="https://github.com/Rukshan19-mr-png">GitHub</a>
+
+<br><br>
+
+> Code. Learn. Build. Repeat.
+
+</div>
