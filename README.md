@@ -1,70 +1,110 @@
 <div align="center">
 
-# 👋 Hi there, I'm Maleesha Rukshan!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MALEESHA%20RUKSHAN&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&color=0:0F172A,50:312E81,100:0EA5E9"/>
 
-### 💻 Software Engineering Undergraduate | 🚀 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Software+Engineering+Undergraduate+🎓;Learning+and+Building+with+Modern+Technologies+💻;Future+Professional+Software+Engineer+🚀" alt="Typing SVG" />
-
-<br/>
+<br>
 
 <a href="https://github.com/Rukshan19-mr-png">
-  <img src="https://komarev.com/ghpvc/?username=Rukshan19-mr-png&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/GitHub-Rukshan19--mr--png-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Rukshan19-mr-png&label=PROFILE%20VIEWS&style=for-the-badge&color=0EA5E9"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+Ideas+Into+Real+Software+%E2%9A%A1" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 I'm a **Software Engineering Undergraduate at the University of Kelaniya, Sri Lanka**.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  👋 Hello! I'm Maleesha Rukshan                              │
+│                                                              │
+│  🎓 Software Engineering Undergraduate                       │
+│  🏫 University of Kelaniya                                  │
+│  💻 Full-Stack Development Enthusiast                        │
+│  🚀 MERN Stack Developer                                     │
+│  🔐 Cybersecurity Enthusiast                                 │
+│  🌱 Always Learning • Building • Improving                   │
+│                                                              │
+│  🎯 Goal: Become a professional software engineer and       │
+│     build reliable, scalable and user-focused applications. │
+└──────────────────────────────────────────────────────────────┘
+```
 
-💻 I am passionate about building creative and useful software solutions.
+I'm a **Software Engineering undergraduate at the University of Kelaniya** with a strong interest in building modern, scalable and user-focused software applications.
 
-🌱 Currently improving my skills in **Full-Stack Web Development and MERN Stack Development**.
+I enjoy working across the **frontend, backend and database layers**, turning ideas into complete applications and continuously improving my engineering skills.
 
-🔐 Interested in **Cybersecurity**, ethical hacking concepts, and secure software development.
+### 💡 What I'm Interested In
 
-🎮 Also interested in **Game Development** and exploring new technologies.
-
-🎯 My goal is to become a **professional Software Engineer** and build impactful software solutions.
-
-⚡ **Fun Fact:** I enjoy turning ideas into real-world applications through code! 🚀
+* 🚀 Full-Stack Web Development
+* ⚛️ React & Modern Frontend Development
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB & Database Systems
+* ☕ Java & Spring Boot
+* 🔐 Cybersecurity & Secure Software Development
+* 🐳 Docker & DevOps Concepts
+* 🧩 Software Architecture & Design
+* 📱 Mobile Application Development
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Developer Mindset
 
 <div align="center">
 
-### 💻 Programming Languages
+### `LEARN → BUILD → TEST → IMPROVE → REPEAT`
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,php" />
+</div>
 
-<br/><br/>
+I believe software engineering is not only about writing code.
 
-### 🌐 Frontend Development
+It is about:
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" />
+**Understanding problems → Designing solutions → Writing maintainable code → Testing properly → Learning continuously.**
 
-<br/><br/>
+---
 
-### ⚙️ Backend Development
+# ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<div align="center">
 
-<br/><br/>
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,c,html,css,php" />
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
+
+<br><br>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<br/><br/>
+<br><br>
 
-### 🔧 Tools & Technologies
+### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
 
 </div>
 
@@ -72,63 +112,133 @@
 
 # 🚀 Featured Projects
 
-### 🛒 MERN Stack E-Commerce System
+<div align="center">
 
-A full-stack e-commerce application developed using modern web technologies.
+|           Project           | Description                                                             |           Technologies           |
+| :-------------------------: | :---------------------------------------------------------------------- | :------------------------------: |
+|    🛒 **MERN E-Commerce**   | Full-stack shopping platform with authentication, products and ordering | React • Node • Express • MongoDB |
+| 📚 **Bookfair Reservation** | Book reservation and management system                                  |      React • Node • MongoDB      |
+| 🏠 **House Renting System** | Web-based property rental management system                             |   HTML • CSS • JS • PHP • MySQL  |
+| ☕ **Microservices Project** | Distributed application exploring microservice architecture             |    Java • Spring Boot • Docker   |
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+</div>
 
-✨ Features include user management, product management, authentication, and online shopping functionality.
+### 🛒 MERN E-Commerce Platform
+
+A full-stack web application designed to provide a modern online shopping experience.
+
+**Architecture**
+
+```text
+React Frontend
+      ↓
+REST API
+      ↓
+Node.js + Express
+      ↓
+MongoDB
+```
+
+**Key Areas**
+
+* 🔐 Authentication & Authorization
+* 👤 User Management
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* 📦 Order Management
+* 💳 Payment Integration
+* 🔄 REST API Communication
 
 ---
 
 ### 📚 Bookfair Reservation System
 
-A system designed to manage and simplify the book reservation process.
+A web application designed to simplify book browsing and reservation.
 
-**Focus:** User-friendly interface • Reservation management • Database integration
+**Focus**
 
----
-
-### 🏫 School Management System
-
-A software solution designed to manage school-related activities efficiently.
-
-🚧 **Status:** Currently under development.
+`User Experience` • `Reservation Management` • `Database Integration` • `REST APIs`
 
 ---
 
-# 🌱 Currently Learning
+### 🏠 House Renting System
+
+A property-rental platform developed using traditional web technologies.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `PDO`
+
+The project includes different user roles and property management functionality.
+
+---
+
+# 🔐 Security & Engineering Interests
+
+I'm particularly interested in understanding how applications can be built securely.
 
 ```text
-🚀 MERN Stack Development
-🔐 Cybersecurity Fundamentals
-⚛️ Advanced React Development
-📱 Mobile Application Development
-🐳 DevOps & CI/CD Concepts
+🔑 Authentication
+       │
+       ├── JWT
+       ├── Password Hashing
+       └── Session Security
+       
+🛡️ Web Security
+       │
+       ├── XSS
+       ├── SQL Injection
+       ├── CSRF
+       └── Secure HTTP
+       
+🔒 Application Security
+       │
+       ├── Authorization
+       ├── Secure APIs
+       └── Data Protection
 ```
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 Currently Learning
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rukshan19-mr-png&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshan19-mr-png&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+| Area            | Current Focus                         |
+| --------------- | ------------------------------------- |
+| 🚀 Full Stack   | Advanced MERN Development             |
+| ⚛️ Frontend     | React Architecture & State Management |
+| ☕ Backend       | Spring Boot & REST APIs               |
+| 🔐 Security     | Web Security & Secure Authentication  |
+| 🐳 DevOps       | Docker & Deployment                   |
+| 🧩 Architecture | Microservices & System Design         |
+| 📱 Mobile       | Modern Mobile Application Development |
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rukshan19-mr-png&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rukshan19-mr-png&show_icons=true&hide_border=true&border_radius=15&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshan19-mr-png&layout=compact&hide_border=true&border_radius=15&theme=tokyonight&langs_count=8"/>
 
 </div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rukshan19-mr-png&theme=tokyonight&hide_border=true&border_radius=15&mode=weekly"/>
+
+</div>
+
+The streak widget displays contribution totals and current/longest streak information based on GitHub contribution activity.
 
 ---
 
@@ -136,7 +246,7 @@ A software solution designed to manage school-related activities efficiently.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rukshan19-mr-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rukshan19-mr-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -146,35 +256,74 @@ A software solution designed to manage school-related activities efficiently.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukshan19-mr-png&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukshan19-mr-png&bg_color=0F172A&color=38BDF8&line=6366F1&point=22D3EE&area=true&hide_border=true&radius=12" width="100%"/>
 
 </div>
 
 ---
 
-# 🎯 My Current Goals
-
-* 🚀 Become a Professional Software Engineer
-* 💻 Build more Full-Stack Applications
-* 🌍 Contribute to Open Source Projects
-* 🔐 Improve my Cybersecurity Knowledge
-* 📱 Explore Mobile Application Development
-* 🎮 Learn more about Game Development
-* 📚 Continuously learn new technologies
-
----
-
-# 🤝 Let's Connect!
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/">
-<img src="https://img.shields.io/badge/LinkedIn-Maleesha%20Rukshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Rukshan19-mr-png/Rukshan19-mr-png/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake requires a GitHub Actions workflow in your profile repository. Setup is provided below.
+
+---
+
+# 🎯 2026 Goals
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    MY 2026 ROADMAP                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] Strengthen Software Engineering Fundamentals            ║
+║  [✓] Build Full-Stack Applications                            ║
+║  [ ] Become Stronger in MERN Development                      ║
+║  [ ] Improve Java & Spring Boot                               ║
+║  [ ] Deepen Cybersecurity Knowledge                           ║
+║  [ ] Build Production-Ready Applications                      ║
+║  [ ] Contribute to Open Source                                ║
+║  [ ] Gain Professional Industry Experience                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Rukshan19-mr-png">
-<img src="https://img.shields.io/badge/GitHub-Rukshan19--mr--png-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/maleesha-rukshan-0ba90535a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+💬 **Open to learning, collaboration and interesting software projects.**
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+### <i>"Great software is built by people who never stop learning."</i>
+
+<br>
+
+`Think` • `Design` • `Code` • `Test` • `Deploy` • `Improve`
 
 </div>
 
@@ -182,16 +331,10 @@ A software solution designed to manage school-related activities efficiently.
 
 <div align="center">
 
-## 💡 Quote I Believe In
+### ⭐ If you find my projects interesting, feel free to explore my repositories!
 
-> ### *"Code. Learn. Build. Repeat. 🚀"*
+<br>
 
-<br/>
-
-### ⭐ Thanks for visiting my profile!
-
-### 💙 Feel free to explore my repositories and connect with me!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,50:4B0082,100:00C7B7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:312E81,100:0F172A"/>
 
 </div>
