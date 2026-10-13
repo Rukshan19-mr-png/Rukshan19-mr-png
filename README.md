@@ -52,7 +52,7 @@
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,php" />
 
 <br/><br/>
 
