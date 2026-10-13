@@ -26,8 +26,6 @@
 
 🔐 Interested in **Cybersecurity**, ethical hacking concepts, and secure software development.
 
-🎮 Also interested in **Game Development** and exploring new technologies.
-
 🎯 My goal is to become a **professional Software Engineer** and build impactful software solutions.
 
 ⚡ **Fun Fact:** I enjoy turning ideas into real-world applications through code! 🚀
